@@ -37,3 +37,16 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+.btn-block{
+
+    background-color: #ebb71c;
+    border: none;
+    color: black;
+    font-weight: 500;
+}
+
+.btn-block:hover {
+    background-color: #ebb71c;
+    color: #0f0f0f;
+    }
