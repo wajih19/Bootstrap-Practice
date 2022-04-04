@@ -38,7 +38,7 @@ body{
      background-color: #512DA8;
 }
 
-.btn-block{
+/* .btn-block{
 
     background-color: #ebb71c;
     border: none;
@@ -49,7 +49,7 @@ body{
 .btn-block:hover {
     background-color: #ebb71c;
     color: #0f0f0f;
-    }
+    } */
 
 .tab-content {
         border-left: 1px solid #ddd;
